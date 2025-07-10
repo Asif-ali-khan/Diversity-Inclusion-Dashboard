@@ -59,9 +59,9 @@ This Power BI dashboard offers a comprehensive analysis of diversity and inclusi
 
 ## 📁 Files Included
 
-- 📊 [Diversity_And_Inclusion_Dataset.xlsx](./Diversity_And_Inclusion_Dataset.xlsx)  
-- 📄 [Diversity_Inclusion_Dashboard.pdf](./Diversity_Inclusion_Dashboard.pdf)  
-- 🧠 [Diversity_Inclusion_Dashboard.pbix](./Diversity_Inclusion_Dashboard.pbix)  
+- 📊 [03 Diversity-Inclusion-Dataset.xlsx](./03%20Diversity-Inclusion-Dataset.xlsx)  
+- 🧠 [Diversity & Inclusion.pbix](./Diversity%20&%20Inclusion.pbix)  
+- 📄 [Diversity & Inclusion.pdf](./Diversity%20&%20Inclusion.pdf)  
 
 ---
 
